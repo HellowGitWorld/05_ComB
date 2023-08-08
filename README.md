@@ -1,5 +1,5 @@
 
-![256x256](https://github.com/HellowGitWorld/Comb/assets/131934488/e2b98072-176f-4050-9da4-8f1a0f70ec00)
+![256x256](https://github.com/HellowGitWorld/ComB/assets/131934488/4a7ef3f9-576f-436c-b4ba-e86c442c3928)
 
 ComB 0.1.0
 =========================
@@ -25,7 +25,8 @@ Download Quick Link
 
 Preview
 =========================
-<img width="1170" alt="example" src="https://github.com/HellowGitWorld/Comb/assets/131934488/69a9ee93-ca77-40d1-8bc0-812765e53d4e">
+<img width="825" alt="Screenshot 2023-08-02 at 17 56 39" src="https://github.com/HellowGitWorld/ComB/assets/131934488/d22a4ba6-046c-4e47-a535-e3b2fb7a5fec">
+
 
 User Guide
 =========================
@@ -46,8 +47,8 @@ Installation
   
 Top-Up Guide
 =========================
+<img width="400" alt="example2" src="https://github.com/HellowGitWorld/ComB/assets/131934488/1279deda-4288-4fe7-a320-2804fba39995">
 
-<img width="400" alt="example2" src="https://github.com/HellowGitWorld/ComB/assets/131934488/5d63c5f5-33ec-4458-a2f4-96580b932d95">
 
 - Scan the code
 - **Note your serious number!!!**
@@ -65,5 +66,13 @@ Roadmap
 Discussing
 =========================
 - Connect us with Customer service in this wx app
+  
+![wx](https://github.com/HellowGitWorld/ComB/assets/131934488/19e94d8b-0bd6-4566-b62c-2c2425f4fe4e)
 
-![wx](https://github.com/HellowGitWorld/ComB/assets/131934488/a5876a07-58d3-456a-8ac4-cf67e0dc4523)
+
+Conncet Us
+=========================
+
+qq:1003699239
+
+
